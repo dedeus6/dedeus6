@@ -6,7 +6,7 @@
 Public commits: <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dedeus6&theme=vue-dark&show_icons=true)
 
-## Techs that i use in my day
+## Techs i use in my day
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -16,7 +16,7 @@ Public commits: <br/>
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-## Other techs that i know
+## Other techs i know
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +30,7 @@ Public commits: <br/>
   <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
-## Techs that i'm studying
+## Techs i'm studying
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
